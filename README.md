@@ -1,2 +1,2 @@
 # experiments
-MyExperimentWithLife
+MyExperimentsWithLife
